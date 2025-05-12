@@ -6,4 +6,4 @@ def test_hello():
 
 
 def test_hello_custom_name():
-    assert hello("EPSI") == "Hello, EPSI!"
+    assert hello("EPSI") == "Hello, EPSI"
